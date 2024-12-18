@@ -1,3 +1,3 @@
-# mcs-docs
+"# mcs-docs"
 
-[docs](https://nelsonsaake.github.io/mcs-docs/)
+[docs](https://nelsonsaake.github.io/mcs-docs/docs)
