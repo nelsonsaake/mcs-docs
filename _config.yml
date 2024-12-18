@@ -1,8 +1,1 @@
-plugins:
-  - jekyll-auto-toc
-
-defaults:
-  - scope:
-      path: "docs/*"
-    values:
-      layout: "default"
+theme: jekyll-theme-minimal
