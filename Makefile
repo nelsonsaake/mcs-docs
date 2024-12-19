@@ -23,3 +23,7 @@ build-css:
 
 dev:
 	npm run dev
+
+commit:
+	git add .
+	git commit -m "chore: commit everything"
