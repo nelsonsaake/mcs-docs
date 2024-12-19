@@ -2,14 +2,14 @@
 title: group_loan_categories  
 ---
 
-- int `cat_id`:
-- string `cat_name`:
-- string `cat_desc`:
-- int `max_num_per_group`:
-- float `total_collectable`:
-- float `qualify_percent`:
-- float `interest_rate`:
-- string `processing_symbol`:
-- float `processing_fee`:
-- string `payment_mode`:
-- int `max_duration`:
+- <span class="type">int</span>  <span class="v-identifier">`cat_id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`cat_name`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`cat_desc`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`max_num_per_group`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`total_collectable`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`qualify_percent`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`interest_rate`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`processing_symbol`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`processing_fee`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`payment_mode`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`max_duration`</span>:

@@ -2,17 +2,17 @@
 title: psource_referee_details  
 ---
 
-- int `id`:
-- int `applicant_id`:
-- string `application_type`:
-- string `ref_account`:
-- string `ref_surname`:
-- string `ref_fname`:
-- string `ref_mname`:
-- string `ref_home_phone_num`:
-- string `ref_wrk_phone_num`:
-- string `ref_mob_num`:
-- string `ref_gender`:
-- string `ref_address`:
-- string `ref_relation`:
-- string `ref_business`:
+- <span class="type">int</span>  <span class="v-identifier">`id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`applicant_id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`application_type`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`ref_account`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`ref_surname`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`ref_fname`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`ref_mname`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`ref_home_phone_num`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`ref_wrk_phone_num`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`ref_mob_num`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`ref_gender`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`ref_address`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`ref_relation`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`ref_business`</span>:

@@ -18,12 +18,12 @@
 .nested-links a {
   overflow-wrap: break-word;
 }
-
-* {
-  font-family: monospace !important;
-}
-
+ 
 pre,
 code {
   color: #161616;
+}
+ 
+.type {
+  color: #00af66 !important;
 }

@@ -2,39 +2,39 @@
 title: child_policies  
 ---
 
-- int `policy_id`:
-- string `branch_id`:
-- string `account_number`:
-- string `parent_account`:
-- float `saving_amount`:
-- float `interest_rate`:
-- float `total_paid`:
-- float `interest_accrued`:
-- float `total_amount`:
-- float `withdrawals`:
-- float `processing_fee`:
-- int `status`:
-- Carbon `application_date`:
-- Carbon `approval_date`:
-- string `payment_mode`:
-- Carbon `start_date`:
-- int `maturity_years`:
-- Carbon `last_payment_date`:
-- Carbon `due_date`:
-- Carbon `paid_off_date`:
-- string `id_num`:
-- string `id_type`:
-- int `application_status`:
-- int `cycle`:
-- Carbon `last_interest_paid`:
-- string `surname`:
-- string `othernames`:
-- string `gender`:
-- string `education_level`:
-- string `telephone`:
-- Carbon `dob`:
-- string `ch_picture`:
-- string `passbook`:
-- string `mode_payment`:
-- float `qualifying_bal_for_interest`:
-- int `last_interest_run`:
+- <span class="type">int</span>  <span class="v-identifier">`policy_id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`branch_id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`account_number`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`parent_account`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`saving_amount`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`interest_rate`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`total_paid`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`interest_accrued`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`total_amount`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`withdrawals`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`processing_fee`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`status`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`application_date`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`approval_date`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`payment_mode`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`start_date`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`maturity_years`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`last_payment_date`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`due_date`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`paid_off_date`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`id_num`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`id_type`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`application_status`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`cycle`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`last_interest_paid`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`surname`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`othernames`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`gender`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`education_level`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`telephone`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`dob`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`ch_picture`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`passbook`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`mode_payment`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`qualifying_bal_for_interest`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`last_interest_run`</span>:

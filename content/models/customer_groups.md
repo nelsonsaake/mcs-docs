@@ -2,7 +2,7 @@
 title: customer_groups  
 ---
 
-- int `id`:
-- string `name`:
-- int `created_by`:
-- Carbon `created_at`:
+- <span class="type">int</span>  <span class="v-identifier">`id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`name`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`created_by`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`created_at`</span>:

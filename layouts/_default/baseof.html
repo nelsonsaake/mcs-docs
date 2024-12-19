@@ -54,11 +54,12 @@
       {{ template "_internal/google_analytics.html" . }}
     {{ end }}
 	{{ block "head" . }}{{ partial "head-additions.html" . }}{{ end }}
-    <link rel="stylesheet" href="/css/tailwind.css">
+  <link rel="stylesheet" href="/css/tailwind.css">
+  <link rel="stylesheet" href="/css/_styles.css">
   </head>
 
   {{- $environment := hugo.Environment | default "production" -}}
-  <body class="ma0 {{ $.Param "body_classes"  | default "avenir bg-near-white"}} {{ $environment }}">
+  <body class="ma0 {{ $.Param "body_classes"  | default "bg-near-white"}} {{ $environment }}">
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
     <main class="pb7" role="main">

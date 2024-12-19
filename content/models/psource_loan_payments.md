@@ -2,9 +2,9 @@
 title: psource_loan_payments  
 ---
 
-- int `id`:
-- int `loan_id`:
-- int `emp_num`:
-- float `amt_paid`:
-- string `paid_to`:
-- Carbon `payment_date`:
+- <span class="type">int</span>  <span class="v-identifier">`id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`loan_id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`emp_num`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`amt_paid`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`paid_to`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`payment_date`</span>:

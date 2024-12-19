@@ -2,11 +2,11 @@
 title: users_groups_histories  
 ---
 
-- int `history_id`:
-- int `user_id`:
-- int `group_id`:
-- int `status`:
-- Carbon `added_at`:
-- int `added_by`:
-- Carbon `removed_at`:
-- int `removed_by`:
+- <span class="type">int</span>  <span class="v-identifier">`history_id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`user_id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`group_id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`status`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`added_at`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`added_by`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`removed_at`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`removed_by`</span>:

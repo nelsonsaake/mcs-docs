@@ -4,6 +4,9 @@
 run: 
 	hugo server
 
+no-cache-run:
+	hugo server --ignoreCache
+
 dep:
 	git add .
 	git commit -m "chore: commit everything"
@@ -21,9 +24,17 @@ ref:
 build-css:
 	npm run build:css
 
+no-cache-build:
+	hugo --ignoreCache
+
 dev:
 	npm run dev
 
 commit:
 	git add .
 	git commit -m "chore: commit everything"
+
+clear:	
+	rmdir /s /q "%LocalAppData%\hugo\Cache"
+	rmdir -rf resources
+	

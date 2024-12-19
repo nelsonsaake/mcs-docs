@@ -2,7 +2,7 @@
 title: general_settings  
 ---
 
-- int `id`:
-- string `setting_key`:
-- string `setting_desc`:
-- string `setting_value`:
+- <span class="type">int</span>  <span class="v-identifier">`id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`setting_key`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`setting_desc`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`setting_value`</span>:

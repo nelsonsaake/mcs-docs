@@ -2,8 +2,8 @@
 title: withdrawal_settings  
 ---
 
-- int `id`:
-- float `amount`:
-- float `remote_amount`:
-- int `status`:
-- Carbon `date_added`:
+- <span class="type">int</span>  <span class="v-identifier">`id`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`amount`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`remote_amount`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`status`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`date_added`</span>:

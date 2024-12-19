@@ -2,8 +2,8 @@
 title: phone_verification_logs  
 ---
 
-- int `log_id`:
-- Carbon `log_time`:
-- string `account_number`:
-- string `verified_phone`:
-- string `verified_by`:
+- <span class="type">int</span>  <span class="v-identifier">`log_id`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`log_time`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`account_number`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`verified_phone`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`verified_by`</span>:

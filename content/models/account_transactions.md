@@ -2,27 +2,27 @@
 title: account_transactions  
 ---
 
-- int `transaction_id`:
-- Carbon `transaction_date`:
-- float `amount`:
-- float `cr`:
-- float `dr`:
-- float `balance`:
-- string `account_number`:
-- int `transaction_type`:
-- string `client`:
-- int `status`:
-- string `branch_id`:
-- int `transaction_hour`:
-- int `loan_id`:
-- Carbon `trans_date_only`:
-- int `trans_day`:
-- int `trans_month`:
-- int `trans_week`:
-- int `trans_year`:
-- float `passbook_balance`:
-- string `payer_name`:
-- string `payer_phone`:
-- string `payer_email`:
-- int `is_bullion`:
-- string `trans_otp`:
+- <span class="type">int</span>  <span class="v-identifier">`transaction_id`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`transaction_date`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`amount`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`cr`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`dr`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`balance`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`account_number`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`transaction_type`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`client`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`status`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`branch_id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`transaction_hour`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`loan_id`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`trans_date_only`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`trans_day`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`trans_month`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`trans_week`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`trans_year`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`passbook_balance`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`payer_name`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`payer_phone`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`payer_email`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`is_bullion`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`trans_otp`</span>:

@@ -2,10 +2,10 @@
 title: agent_overs  
 ---
 
-- int `id`:
-- string `client`:
-- float `amount`:
-- Carbon `added_at`:
-- int `added_by`:
-- int `trans_type`:
-- string `credited_to`:
+- <span class="type">int</span>  <span class="v-identifier">`id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`client`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`amount`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`added_at`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`added_by`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`trans_type`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`credited_to`</span>:

@@ -2,7 +2,7 @@
 title: deposit_currency_notes  
 ---
 
-- int `dcn_id`:
-- int `note_id`:
-- float `currency_amount`:
-- int `tx_id`:
+- <span class="type">int</span>  <span class="v-identifier">`dcn_id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`note_id`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`currency_amount`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`tx_id`</span>:

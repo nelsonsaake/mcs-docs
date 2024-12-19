@@ -4,3 +4,8 @@ title = 'mcs-docs'
 theme = 'ananke'
 
 paginate = '20'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

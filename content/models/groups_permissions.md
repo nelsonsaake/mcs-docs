@@ -2,9 +2,9 @@
 title: groups_permissions  
 ---
 
-- int `id`:
-- int `group_id`:
-- int `perm_id`:
-- int `value`:
-- int `created_at`:
-- int `updated_at`:
+- <span class="type">int</span>  <span class="v-identifier">`id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`group_id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`perm_id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`value`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`created_at`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`updated_at`</span>:

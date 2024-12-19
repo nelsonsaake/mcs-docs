@@ -2,10 +2,10 @@
 title: oauth_users  
 ---
 
-- string `username`:
-- string `password`:
-- string `first_name`:
-- string `last_name`:
-- string `email`:
-- bool `email_verified`:
-- string `scope`:
+- <span class="type">string</span>  <span class="v-identifier">`username`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`password`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`first_name`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`last_name`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`email`</span>:
+- <span class="type">bool</span>  <span class="v-identifier">`email_verified`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`scope`</span>:

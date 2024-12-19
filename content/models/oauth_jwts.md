@@ -2,6 +2,6 @@
 title: oauth_jwts  
 ---
 
-- string `client_id`:
-- string `subject`:
-- string `public_key`:
+- <span class="type">string</span>  <span class="v-identifier">`client_id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`subject`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`public_key`</span>:

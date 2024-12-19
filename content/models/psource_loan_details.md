@@ -2,33 +2,33 @@
 title: psource_loan_details  
 ---
 
-- int `id`:
-- int `applicant_id`:
-- string `branch_id`:
-- float `net_salary`:
-- float `max_installment`:
-- float `installment_per_month`:
-- float `principal_per_month`:
-- float `interest_per_month`:
-- float `amt_requested`:
-- int `loan_term`:
-- int `loan_term_left`:
-- Carbon `next_date_ofpayment`:
-- string `prepared_by`:
-- string `approved_by`:
-- string `declined_by`:
-- string `processed_by`:
-- float `total_paid`:
-- float `principal_paid`:
-- float `interest_paid`:
-- float `balance`:
-- float `principal_bal`:
-- float `interest_bal`:
-- float `penalty_charge`:
-- string `status`:
-- Carbon `prepared_date`:
-- Carbon `approval_date`:
-- Carbon `decline_date`:
-- Carbon `processed_date`:
-- Carbon `last_date_ofpayment`:
-- string `agent`:
+- <span class="type">int</span>  <span class="v-identifier">`id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`applicant_id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`branch_id`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`net_salary`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`max_installment`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`installment_per_month`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`principal_per_month`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`interest_per_month`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`amt_requested`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`loan_term`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`loan_term_left`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`next_date_ofpayment`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`prepared_by`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`approved_by`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`declined_by`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`processed_by`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`total_paid`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`principal_paid`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`interest_paid`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`balance`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`principal_bal`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`interest_bal`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`penalty_charge`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`status`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`prepared_date`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`approval_date`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`decline_date`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`processed_date`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`last_date_ofpayment`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`agent`</span>:

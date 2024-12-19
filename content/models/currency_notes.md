@@ -2,8 +2,8 @@
 title: currency_notes  
 ---
 
-- int `note_id`:
-- string `note_name`:
-- string `note_key`:
-- string `note_type`:
-- float `note_amount`:
+- <span class="type">int</span>  <span class="v-identifier">`note_id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`note_name`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`note_key`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`note_type`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`note_amount`</span>:

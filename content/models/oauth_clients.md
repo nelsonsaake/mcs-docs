@@ -2,9 +2,9 @@
 title: oauth_clients  
 ---
 
-- string `client_id`:
-- string `client_secret`:
-- string `redirect_uri`:
-- string `grant_types`:
-- string `scope`:
-- string `user_id`:
+- <span class="type">string</span>  <span class="v-identifier">`client_id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`client_secret`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`redirect_uri`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`grant_types`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`scope`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`user_id`</span>:

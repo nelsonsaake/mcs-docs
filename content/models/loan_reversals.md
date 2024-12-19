@@ -2,12 +2,12 @@
 title: loan_reversals  
 ---
 
-- int `id`:
-- int `transaction_id`:
-- string `request_by`:
-- string `approved_by`:
-- string `branch_id`:
-- string `reason`:
-- Carbon `request_date_time`:
-- Carbon `approved_date_time`:
-- int `status`:
+- <span class="type">int</span>  <span class="v-identifier">`id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`transaction_id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`request_by`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`approved_by`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`branch_id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`reason`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`request_date_time`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`approved_date_time`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`status`</span>:

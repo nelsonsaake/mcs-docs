@@ -2,13 +2,13 @@
 title: comission_settings  
 ---
 
-- int `id`:
-- float `threshold`:
-- float `expec_per_trans`:
-- float `normal`:
-- float `excess`:
-- float `tax`:
-- int `status`:
-- Carbon `date_time`:
-- int `agents`:
-- int `min_days`:
+- <span class="type">int</span>  <span class="v-identifier">`id`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`threshold`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`expec_per_trans`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`normal`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`excess`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`tax`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`status`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`date_time`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`agents`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`min_days`</span>:

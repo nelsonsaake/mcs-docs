@@ -2,32 +2,32 @@
 title: users  
 ---
 
-- int `id`:
--  `ip_address`:
-- string `username`:
-- string `password`:
-- string `salt`:
-- string `email`:
-- string `activation_code`:
-- string `forgotten_password_code`:
-- int `forgotten_password_time`:
-- string `remember_code`:
-- int `created_on`:
-- int `last_login`:
-- bool `active`:
-- string `first_name`:
-- string `last_name`:
-- string `phone`:
-- string `bio_template_1`:
-- string `bio_template_2`:
--  `fingerprint_1`:
--  `fingerprint_2`:
--  `template_db`:
-- string `branch_id`:
-- string `zone_id`:
-- float `collection_threshold`:
-- Carbon `threshold_notified`:
-- float `basic_salary`:
-- int `num_of_visits`:
-- float `target_amount`:
-- int `created_by`:
+- <span class="type">int</span>  <span class="v-identifier">`id`</span>:
+- <span class="type"></span>  <span class="v-identifier">`ip_address`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`username`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`password`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`salt`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`email`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`activation_code`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`forgotten_password_code`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`forgotten_password_time`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`remember_code`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`created_on`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`last_login`</span>:
+- <span class="type">bool</span>  <span class="v-identifier">`active`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`first_name`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`last_name`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`phone`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`bio_template_1`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`bio_template_2`</span>:
+- <span class="type"></span>  <span class="v-identifier">`fingerprint_1`</span>:
+- <span class="type"></span>  <span class="v-identifier">`fingerprint_2`</span>:
+- <span class="type"></span>  <span class="v-identifier">`template_db`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`branch_id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`zone_id`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`collection_threshold`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`threshold_notified`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`basic_salary`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`num_of_visits`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`target_amount`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`created_by`</span>:

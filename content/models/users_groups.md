@@ -2,6 +2,6 @@
 title: users_groups  
 ---
 
-- int `id`:
-- int `user_id`:
-- int `group_id`:
+- <span class="type">int</span>  <span class="v-identifier">`id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`user_id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`group_id`</span>:

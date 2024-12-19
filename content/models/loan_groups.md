@@ -2,22 +2,22 @@
 title: loan_groups  
 ---
 
-- int `id`:
-- string `branch_id`:
-- string `acc_num`:
-- string `name`:
-- string `location`:
-- string `payment_mode`:
-- int `total_members`:
-- int `tenor`:
-- float `total_amount`:
-- float `total_interest`:
-- float `total_paid`:
-- Carbon `start_date`:
-- Carbon `date_added`:
-- Carbon `due_date`:
-- Carbon `paid_off_date`:
-- Carbon `alert_date`:
-- int `cycle`:
-- int `status`:
-- int `loan_type`:
+- <span class="type">int</span>  <span class="v-identifier">`id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`branch_id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`acc_num`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`name`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`location`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`payment_mode`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`total_members`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`tenor`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`total_amount`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`total_interest`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`total_paid`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`start_date`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`date_added`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`due_date`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`paid_off_date`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`alert_date`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`cycle`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`status`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`loan_type`</span>:

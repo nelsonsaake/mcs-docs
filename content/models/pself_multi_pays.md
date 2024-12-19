@@ -2,8 +2,8 @@
 title: pself_multi_pays  
 ---
 
-- int `id`:
-- string `emp_num`:
-- float `amt`:
-- int `status`:
-- Carbon `date`:
+- <span class="type">int</span>  <span class="v-identifier">`id`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`emp_num`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`amt`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`status`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`date`</span>:
