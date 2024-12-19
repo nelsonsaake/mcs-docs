@@ -1,0 +1,47 @@
+---
+title: customers  
+---
+
+- string `account_number`:
+- string `parent_account`:
+- string `signature`:
+- string `branch`:
+- string `zone`:
+- string `first_name`:
+- string `last_name`:
+- string `popular_name`:
+- string `phone`:
+- string `bio_template_1`:
+- string `bio_template_2`:
+-  `fingerprint_1`:
+-  `fingerprint_2`:
+-  `template_db`:
+- string `email`:
+- string `address`:
+- string `gender`:
+- Carbon `dob`:
+- Carbon `reg_date`:
+- string `picture`:
+- string `place_of_birth`:
+- string `nationality`:
+- string `occupation`:
+- string `residence`:
+- string `house_number`:
+- string `home_town`:
+- string `level_of_education`:
+- string `denomination`:
+- string `place_of_worship`:
+- float `income_level`:
+- int `no_of_dependent`:
+- int `no_of_children`:
+- string `marital_status`:
+- string `spouse_name`:
+- string `spouse_phone`:
+- string `passbook_id`:
+- string `registered_by`:
+- int `status`:
+- int `finger_type_1`:
+- int `finger_type_2`:
+- bool `phone_verified`:
+- string `pass_code`:
+- int `customer_group_id`:

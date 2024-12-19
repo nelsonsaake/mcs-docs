@@ -1,0 +1,28 @@
+---
+title: account_transactions  
+---
+
+- int `transaction_id`:
+- Carbon `transaction_date`:
+- float `amount`:
+- float `cr`:
+- float `dr`:
+- float `balance`:
+- string `account_number`:
+- int `transaction_type`:
+- string `client`:
+- int `status`:
+- string `branch_id`:
+- int `transaction_hour`:
+- int `loan_id`:
+- Carbon `trans_date_only`:
+- int `trans_day`:
+- int `trans_month`:
+- int `trans_week`:
+- int `trans_year`:
+- float `passbook_balance`:
+- string `payer_name`:
+- string `payer_phone`:
+- string `payer_email`:
+- int `is_bullion`:
+- string `trans_otp`:

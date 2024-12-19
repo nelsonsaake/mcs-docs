@@ -1,0 +1,40 @@
+---
+title: child_policies  
+---
+
+- int `policy_id`:
+- string `branch_id`:
+- string `account_number`:
+- string `parent_account`:
+- float `saving_amount`:
+- float `interest_rate`:
+- float `total_paid`:
+- float `interest_accrued`:
+- float `total_amount`:
+- float `withdrawals`:
+- float `processing_fee`:
+- int `status`:
+- Carbon `application_date`:
+- Carbon `approval_date`:
+- string `payment_mode`:
+- Carbon `start_date`:
+- int `maturity_years`:
+- Carbon `last_payment_date`:
+- Carbon `due_date`:
+- Carbon `paid_off_date`:
+- string `id_num`:
+- string `id_type`:
+- int `application_status`:
+- int `cycle`:
+- Carbon `last_interest_paid`:
+- string `surname`:
+- string `othernames`:
+- string `gender`:
+- string `education_level`:
+- string `telephone`:
+- Carbon `dob`:
+- string `ch_picture`:
+- string `passbook`:
+- string `mode_payment`:
+- float `qualifying_bal_for_interest`:
+- int `last_interest_run`:

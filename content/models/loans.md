@@ -1,0 +1,38 @@
+---
+title: loans  
+---
+
+- int `loan_id`:
+- string `branch_id`:
+- int `group_id`:
+- int `loan_type`:
+- string `account_number`:
+- float `amount`:
+- float `interest_amount`:
+- int `tenor`:
+- float `interest_rate`:
+- float `total_paid`:
+- float `principal_paid`:
+- float `interest_paid`:
+- float `processing_fee`:
+- int `status`:
+- Carbon `application_date`:
+- Carbon `approval_date`:
+- Carbon `repayment_date`:
+- string `payment_mode`:
+- float `deduction_amount`:
+- Carbon `due_date`:
+- Carbon `paid_off_date`:
+- int `type`:
+- string `group_position`:
+- string `id_num`:
+- string `id_type`:
+- string `id_image`:
+- float `income_level`:
+- string `reason`:
+- string `review_by`:
+- string `loan_stage`:
+- int `disbursed_status`:
+- string `disbursed_by`:
+- float `loan_form_fee`:
+- Carbon `disbursed_date`:

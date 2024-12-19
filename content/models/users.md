@@ -1,0 +1,33 @@
+---
+title: users  
+---
+
+- int `id`:
+-  `ip_address`:
+- string `username`:
+- string `password`:
+- string `salt`:
+- string `email`:
+- string `activation_code`:
+- string `forgotten_password_code`:
+- int `forgotten_password_time`:
+- string `remember_code`:
+- int `created_on`:
+- int `last_login`:
+- bool `active`:
+- string `first_name`:
+- string `last_name`:
+- string `phone`:
+- string `bio_template_1`:
+- string `bio_template_2`:
+-  `fingerprint_1`:
+-  `fingerprint_2`:
+-  `template_db`:
+- string `branch_id`:
+- string `zone_id`:
+- float `collection_threshold`:
+- Carbon `threshold_notified`:
+- float `basic_salary`:
+- int `num_of_visits`:
+- float `target_amount`:
+- int `created_by`:

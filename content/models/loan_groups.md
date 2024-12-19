@@ -1,0 +1,23 @@
+---
+title: loan_groups  
+---
+
+- int `id`:
+- string `branch_id`:
+- string `acc_num`:
+- string `name`:
+- string `location`:
+- string `payment_mode`:
+- int `total_members`:
+- int `tenor`:
+- float `total_amount`:
+- float `total_interest`:
+- float `total_paid`:
+- Carbon `start_date`:
+- Carbon `date_added`:
+- Carbon `due_date`:
+- Carbon `paid_off_date`:
+- Carbon `alert_date`:
+- int `cycle`:
+- int `status`:
+- int `loan_type`:
