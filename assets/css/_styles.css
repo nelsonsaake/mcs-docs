@@ -15,7 +15,7 @@
 
 }
 
-.nested-links a{
+.nested-links a {
   overflow-wrap: break-word;
 }
 
@@ -23,6 +23,7 @@
   font-family: monospace !important;
 }
 
-pre, code {
+pre,
+code {
   color: #161616;
 }

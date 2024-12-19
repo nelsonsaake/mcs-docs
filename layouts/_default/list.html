@@ -2,13 +2,15 @@
   <article class="pa3 pa4-ns nested-copy-line-height">
     <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
       {{- .Content -}}
-    </section>
-    <section class="flex-ns flex-wrap justify-around mt5">
-      {{ range .Paginator.Pages }}
-        <div class="relative w-100 w-30-l mb4 bg-white">
-          {{ .Render "summary" }}
-        </div>
-      {{ end }}
+    </section> 
+    <section class="flex-ns flex-wrap justify-start mt3"> 
+      <div class="flex flex-wrap gap-3">
+        {{ range .Paginator.Pages }}
+          <div class="text-sm w-[30%]">
+            <a href="{{ .RelPermalink }}" class="text-blue-800 hover:underline">{{ .Title }}</a>
+          </div>
+        {{ end }}
+      </div>
     </section>
     {{- template "_internal/pagination.html" . -}}
   </article>
