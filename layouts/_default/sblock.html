@@ -1,0 +1,12 @@
+<div class="mb-8 w-[30%] rounded-lg border border-stone-300 bg-white pa3">
+  <a href="{{.RelPermalink}}" class="text-xl text-blue-700 hover:underline">
+    {{ .Title }}
+  </a>
+  <p class="text-stone-700 text-sm line-clamp-2">{{ .Description }}</p>
+  <a
+    href="{{.RelPermalink}}"
+    class="ba bg-blue-700 rounded-md text-white br2 color-inherit dib f7 hover:font-semibold link mt2 ph2 pv1"
+  >
+    {{ $.Param "read_more_copy" | default (i18n "readMore") }}
+  </a>
+</div>

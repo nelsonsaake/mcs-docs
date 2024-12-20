@@ -2,158 +2,318 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/models/account_balances/</loc>
+    <loc>http://localhost:1313/system-1/models/account_balances/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/account_transactions/</loc>
+    <loc>http://localhost:1313/system-2/migrations/account_balances/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/agent_balances/</loc>
+    <loc>http://localhost:1313/system-1/models/account_transactions/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/agent_commission_rates/</loc>
+    <loc>http://localhost:1313/system-2/migrations/account_transactions/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/agent_overs/</loc>
+    <loc>http://localhost:1313/system-1/models/agent_balances/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/auto_acc_settings/</loc>
+    <loc>http://localhost:1313/system-2/migrations/agent_balances/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/balance_import_logs/</loc>
+    <loc>http://localhost:1313/system-1/models/agent_commission_rates/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/branches/</loc>
+    <loc>http://localhost:1313/system-2/migrations/agent_commission_rates/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/bulk_transfer_records/</loc>
+    <loc>http://localhost:1313/system-1/models/agent_overs/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/bulk_transfers/</loc>
+    <loc>http://localhost:1313/system-2/migrations/agent_overs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/api-docs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/auto_acc_settings/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/auto_acc_settings/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/balance_import_logs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/balance_import_logs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/branches/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/branches/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/bulk_transfer_records/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/bulk_transfer_records/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/bulk_transfers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/bulk_transfers/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/child_policies/</loc>
+    <loc>http://localhost:1313/change-log/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/child_policy_interest_runs/</loc>
+    <loc>http://localhost:1313/system-1/models/child_policies/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/child_policy_rollovers/</loc>
+    <loc>http://localhost:1313/system-2/migrations/child_policies/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/comission_rates/</loc>
+    <loc>http://localhost:1313/system-1/models/child_policy_interest_runs/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/comission_settings/</loc>
+    <loc>http://localhost:1313/system-2/migrations/child_policy_interest_runs/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/commission_rates_remote_above_threshes/</loc>
+    <loc>http://localhost:1313/system-1/models/child_policy_rollovers/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/currency_notes/</loc>
+    <loc>http://localhost:1313/system-2/migrations/child_policy_rollovers/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/customer_groups/</loc>
+    <loc>http://localhost:1313/system-1/models/comission_rates/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/customers/</loc>
+    <loc>http://localhost:1313/system-2/migrations/comission_rates/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/days_times/</loc>
+    <loc>http://localhost:1313/system-1/models/comission_settings/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/deposit_currency_notes/</loc>
+    <loc>http://localhost:1313/system-2/migrations/comission_settings/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/fixed_deposit_rates/</loc>
+    <loc>http://localhost:1313/system-1/models/commission_rates_remote_above_threshes/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/fixed_deposits/</loc>
+    <loc>http://localhost:1313/system-2/migrations/commission_rates_remote_above_threshes/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/general_settings/</loc>
+    <loc>http://localhost:1313/system-1/models/currency_notes/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/group_loan_categories/</loc>
+    <loc>http://localhost:1313/system-2/migrations/currency_notes/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/groups/</loc>
+    <loc>http://localhost:1313/system-1/models/customer_groups/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/groups_permissions/</loc>
+    <loc>http://localhost:1313/system-2/migrations/customer_groups/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/histories/</loc>
+    <loc>http://localhost:1313/system-1/models/customers/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/interest_payment_schedules/</loc>
+    <loc>http://localhost:1313/system-2/migrations/customers/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/links_visiteds/</loc>
+    <loc>http://localhost:1313/system-1/models/days_times/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/loan_group_positions/</loc>
+    <loc>http://localhost:1313/system-2/migrations/days_times/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/loan_groups/</loc>
+    <loc>http://localhost:1313/system-1/models/deposit_currency_notes/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/loan_paid_offs/</loc>
+    <loc>http://localhost:1313/system-2/migrations/deposit_currency_notes/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/loan_reversals/</loc>
+    <loc>http://localhost:1313/system-1/models/fixed_deposit_rates/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/loan_stage_assignments/</loc>
+    <loc>http://localhost:1313/system-2/migrations/fixed_deposit_rates/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/loan_stages/</loc>
+    <loc>http://localhost:1313/system-1/models/fixed_deposits/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/loan_stat_settings/</loc>
+    <loc>http://localhost:1313/system-2/migrations/fixed_deposits/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/loan_types/</loc>
+    <loc>http://localhost:1313/system-1/models/general_settings/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/loans/</loc>
+    <loc>http://localhost:1313/system-2/migrations/general_settings/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/login_attempts/</loc>
+    <loc>http://localhost:1313/system-1/models/group_loan_categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/group_loan_categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/groups/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/groups/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/groups_permissions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/groups_permissions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/histories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/histories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/interest_payment_schedules/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/interest_payment_schedules/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/links_visiteds/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/links_visiteds/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/loan_group_positions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/loan_group_positions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/loan_groups/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/loan_groups/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/loan_paid_offs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/loan_paid_offs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/loan_reversals/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/loan_reversals/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/loan_stage_assignments/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/loan_stage_assignments/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/loan_stages/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/loan_stages/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/loan_stat_settings/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/loan_stat_settings/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/loan_types/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/loan_types/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/loans/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/loans/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/login_attempts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/login_attempts/</loc>
   </url><url>
     <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/oauth_access_tokens/</loc>
+    <loc>http://localhost:1313/system-1/models/oauth_access_tokens/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/oauth_authorization_codes/</loc>
+    <loc>http://localhost:1313/system-2/migrations/oauth_access_tokens/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/oauth_clients/</loc>
+    <loc>http://localhost:1313/system-1/models/oauth_authorization_codes/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/oauth_jwts/</loc>
+    <loc>http://localhost:1313/system-2/migrations/oauth_authorization_codes/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/oauth_refresh_tokens/</loc>
+    <loc>http://localhost:1313/system-1/models/oauth_clients/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/oauth_scopes/</loc>
+    <loc>http://localhost:1313/system-2/migrations/oauth_clients/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/oauth_users/</loc>
+    <loc>http://localhost:1313/system-1/models/oauth_jwts/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/pending_withdrawals/</loc>
+    <loc>http://localhost:1313/system-2/migrations/oauth_jwts/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/permissions/</loc>
+    <loc>http://localhost:1313/system-1/models/oauth_refresh_tokens/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/phone_verification_logs/</loc>
+    <loc>http://localhost:1313/system-2/migrations/oauth_refresh_tokens/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/policy_interests/</loc>
+    <loc>http://localhost:1313/system-1/models/oauth_scopes/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/policy_rates/</loc>
+    <loc>http://localhost:1313/system-2/migrations/oauth_scopes/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/pself_multi_pays/</loc>
+    <loc>http://localhost:1313/system-1/models/oauth_users/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/psource_applicant_details/</loc>
+    <loc>http://localhost:1313/system-2/migrations/oauth_users/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/psource_applicant_employment_details/</loc>
+    <loc>http://localhost:1313/system-1/models/pending_withdrawals/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/psource_loan_details/</loc>
+    <loc>http://localhost:1313/system-2/migrations/pending_withdrawals/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/psource_loan_payments/</loc>
+    <loc>http://localhost:1313/system-1/models/permissions/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/psource_referee_details/</loc>
+    <loc>http://localhost:1313/system-2/migrations/permissions/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/rate_settings/</loc>
+    <loc>http://localhost:1313/system-1/models/phone_verification_logs/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/regulatory_report_settings/</loc>
+    <loc>http://localhost:1313/system-2/migrations/phone_verification_logs/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/remote_withdrawal_codes/</loc>
+    <loc>http://localhost:1313/system-1/models/policy_interests/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/</loc>
+    <loc>http://localhost:1313/system-2/migrations/policy_interests/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/policy_rates/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/policy_rates/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/pself_multi_pays/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/pself_multi_pays/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/psource_applicant_details/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/psource_applicant_details/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/psource_applicant_employment_details/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/psource_applicant_employment_details/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/psource_loan_details/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/psource_loan_details/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/psource_loan_payments/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/psource_loan_payments/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/psource_referee_details/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/psource_referee_details/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/rate_settings/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/rate_settings/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/regulatory_report_settings/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/regulatory_report_settings/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/remote_withdrawal_codes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/remote_withdrawal_codes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/road-map/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/threshold_settings/</loc>
+    <loc>http://localhost:1313/system-1/models/threshold_settings/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/transaction_reversals/</loc>
+    <loc>http://localhost:1313/system-2/migrations/threshold_settings/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/transaction_traffic_codes/</loc>
+    <loc>http://localhost:1313/system-1/models/transaction_reversals/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/user_salary_histories/</loc>
+    <loc>http://localhost:1313/system-2/migrations/transaction_reversals/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/users/</loc>
+    <loc>http://localhost:1313/system-1/models/transaction_traffic_codes/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/users_groups/</loc>
+    <loc>http://localhost:1313/system-2/migrations/transaction_traffic_codes/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/users_groups_histories/</loc>
+    <loc>http://localhost:1313/transalations/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/users_permissions/</loc>
+    <loc>http://localhost:1313/system-1/models/user_salary_histories/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/vault_transactions/</loc>
+    <loc>http://localhost:1313/system-2/migrations/user_salary_histories/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/vaults/</loc>
+    <loc>http://localhost:1313/system-1/models/users/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/withdrawal_settings/</loc>
+    <loc>http://localhost:1313/system-2/migrations/users/</loc>
   </url><url>
-    <loc>http://localhost:1313/models/zones/</loc>
+    <loc>http://localhost:1313/system-1/models/users_groups/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/users_groups/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/users_groups_histories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/users_groups_histories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/users_permissions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/users_permissions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/vault_transactions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/vault_transactions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/vaults/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/vaults/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/withdrawal_settings/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/withdrawal_settings/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-1/models/zones/</loc>
+  </url><url>
+    <loc>http://localhost:1313/system-2/migrations/zones/</loc>
   </url>
 </urlset>
