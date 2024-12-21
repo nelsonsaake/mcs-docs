@@ -3,7 +3,7 @@
       {{ .Content }}
   </article>
      
-  <div class="md:flex md:flex-wrap md:justify-center md:align-items-center pl4 md:gap-3"> 
+  <div class="md:flex md:flex-wrap md:justify-center md:align-items-center px-4 md:gap-3"> 
     {{range .Site.Sections}}
       {{ .Render "section-card" }}
     {{ end }}

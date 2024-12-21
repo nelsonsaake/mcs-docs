@@ -1,8 +1,5 @@
-.PHONY: run dep content
+.PHONY: dep content
 .SILENT:
-
-run: 
-	hugo server
 
 no-cache-run:
 	hugo server --ignoreCache
@@ -38,3 +35,5 @@ clear:
 	rmdir /s /q "%LocalAppData%\hugo\Cache"
 	rmdir -rf resources
 	
+build:
+	npm run build

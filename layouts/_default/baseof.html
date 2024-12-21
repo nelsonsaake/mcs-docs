@@ -63,7 +63,7 @@
   <body class="ma0 bg-stone-50 {{ $.Param "body_classes"  | default "bg-near-white"}} {{ $environment }}">
 
     {{ block "header" . }}{{ partial "site-header.html" .}}{{ end }}
-    <main class="pb7" role="main">
+    <main class="pb7 min-h-[100vh]" role="main">
       {{ block "main" . }}{{ end }}
     </main>
     {{ block "footer" . }}{{ partialCached "site-footer.html" . }}{{ end }}

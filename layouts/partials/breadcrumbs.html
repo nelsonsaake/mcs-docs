@@ -1,0 +1,11 @@
+<nav class="breadcrumb" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+    {{ $currentPage := . }} {{ range .Sections }}
+    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    {{ $currentPage = . }} {{ end }}
+    <li class="is-active">
+      <a href="#" aria-current="page">{{ $currentPage.Title }}</a>
+    </li>
+  </ul>
+</nav>
