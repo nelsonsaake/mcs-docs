@@ -4,8 +4,7 @@
 no-cache-run:
 	hugo server --ignoreCache
 
-dep:
-	make build
+dep: 
 	git add .
 	git commit -m "chore: commit everything"
 	git push --force origin main

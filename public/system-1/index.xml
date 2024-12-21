@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>System 1 on mcs-docs</title>
-    <link>https://nelsonsaake.github.io/mcs-docs/system-1/</link>
+    <link>http://localhost:1313/system-1/</link>
     <description>Recent content in System 1 on mcs-docs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://nelsonsaake.github.io/mcs-docs/system-1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/system-1/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
