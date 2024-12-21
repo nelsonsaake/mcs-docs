@@ -3,9 +3,9 @@
       {{ .Content }}
   </article>
      
-  <div class="flex flex-wrap justify-center align-items-center pl4 gap-3"> 
+  <div class="md:flex md:flex-wrap md:justify-center md:align-items-center pl4 md:gap-3"> 
     {{range .Site.Sections}}
-      {{ .Render "sblock" }}
+      {{ .Render "section-card" }}
     {{ end }}
   </div>
 {{end}}

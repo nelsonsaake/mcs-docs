@@ -1,0 +1,16 @@
+---
+title: vault_transactions  
+---
+
+- <span class="type">int</span>  <span class="v-identifier">`id`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`amount`</span>:
+- <span class="type">string</span>  <span class="v-identifier">`operation`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`balance_before`</span>:
+- <span class="type">float</span>  <span class="v-identifier">`balance_after`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`transaction_type`</span>:
+- <span class="type">bool</span>  <span class="v-identifier">`successful`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`vault_id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`branch_id`</span>:
+- <span class="type">int</span>  <span class="v-identifier">`by`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`created_at`</span>:
+- <span class="type">Carbon</span>  <span class="v-identifier">`updated_at`</span>:

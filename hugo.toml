@@ -9,3 +9,8 @@ paginate = '20'
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[build]
+  [build.postCSS]
+    config = "postcss.config.js"
+    includePaths = ["assets/css"]
