@@ -1,4 +1,5 @@
-baseURL = 'https://nelsonsaake.github.io/mcs-docs'
+baseURL = 'https://example.org/'
+hostBaseURL = 'https://nelsonsaake.github.io/mcs-docs'
 languageCode = 'en-us'
 title = 'mcs-docs'
 theme = 'ananke'
