@@ -8,7 +8,7 @@ dep:
 	make build
 	git add .
 	git commit -m "chore: commit everything"
-	git push origin main
+	git push --force origin main
 
 content:
 	hugo new content content/index.md
