@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://nelsonsaake.github.io/mcs-docs'
 languageCode = 'en-us'
 title = 'mcs-docs'
 theme = 'ananke'

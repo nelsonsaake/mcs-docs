@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>System 2 on mcs-docs</title>
-    <link>https://example.org/system-2/</link>
+    <link>https://nelsonsaake.github.io/mcs-docs/system-2/</link>
     <description>Recent content in System 2 on mcs-docs</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/system-2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nelsonsaake.github.io/mcs-docs/system-2/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
